@@ -59,22 +59,26 @@ const aboutData = [
         title: 'Generative AI - Governor House',
         stage: '2024 - Present',
       },
+       {
+        title: 'BSCS',
+        stage: '2025 - Present',
+      },
     ],
   },
   {
     title: 'experience',
     info: [
       {
-        title: 'Graphic Designer - GOA Teach',
-        stage: '2012 - 2023',
+        title: 'Intership - GOA Teach',
+        stage: '2024 - 2025',
       },
       {
-        title: 'Web Developer - ABC Agency',
-        stage: '2010 - 2012',
+        title: 'Teaching Tech - Live Session',
+        stage: '2023 - 2025',
       },
       {
-        title: 'Intern - DEF Corporation',
-        stage: '2008 - 2010',
+        title: 'Social Media Handling and Fronted Development - TechWev',
+        stage: '2025 - -resent',
       },
     ],
   },

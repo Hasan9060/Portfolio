@@ -34,6 +34,7 @@ module.exports = {
       },
       animation: {
         'spin-slow': 'spin 6s linear infinite',
+        autoRun: 'autoRun 20s linear infinite', // ✅ add this
       },
       fontFamily: {
         poppins: [`var(--font-poppins)`, 'sans-serif'],
