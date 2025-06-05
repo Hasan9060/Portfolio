@@ -74,11 +74,11 @@ const aboutData = [
       },
       {
         title: 'Teaching Tech - Live Session',
-        stage: '2023 - 2025',
+        stage: '2023 - Present',
       },
       {
-        title: 'Social Media Handling and Fronted Development - TechWev',
-        stage: '2025 - -resent',
+        title: 'Fronted Development - TechWev',
+        stage: '2025 - Present',
       },
     ],
   },

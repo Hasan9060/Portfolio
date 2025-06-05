@@ -11,12 +11,12 @@ const Header = () => {
           <Link href="/" className="flex items-center ">
             <Image 
               src="/logo.png"
-              width={100}
+              width={50}
               height={40}
               alt="Vectonix Logo"
               priority={true}
             />
-            <h1 className="text-[29px] font-semibold mt-[18px]">ECTONIX</h1>
+            <h1 className="text-[16px] font-semibold mt-[18px]">ECTONIX</h1>
           </Link>
           
           {/* Socials */}
